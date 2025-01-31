@@ -1,0 +1,19 @@
+namespace Lessons
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string data;
+            data = Console.ReadLine();
+            Console.WriteLine(data + " С днём рождения тебя!!! ");
+            Console.WriteLine(" От всей души желаю душевного спокойствия ");
+            Console.WriteLine(" пусть дома всегда будут мир и уют ");
+            Console.WriteLine(" будь счастлив и здоров ");
+            Console.WriteLine(" пусть у тебя всегда остается время для приятных мелочей и отдыха ");
+            Console.WriteLine(" работа приносит радость, а вокруг собираются только достойные люди ");
+            Console.WriteLine(" Желаю море радости, чтобы все близкие были рядом, а жизнь была счастливой! ");
+            Console.WriteLine(" С наилучшими пожеланиями Луиза!! ");
+        }
+    }
+}
